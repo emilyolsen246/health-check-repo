@@ -1,0 +1,14 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+dipy==1.7.0
+h5py==3.10.0
+idna==3.6
+nibabel==5.2.0
+numpy==1.26.2
+packaging==23.2
+PyYAML==6.0.1
+requests==2.31.0
+scipy==1.11.4
+TIME-python==0.0.17
+tqdm==4.66.1
+urllib3==2.1.0
