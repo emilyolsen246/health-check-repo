@@ -11,6 +11,7 @@ This program continuously monitors the health of specified endpoints from a YML 
 3. Create the virtual environment: `python3 -m venv .venv`
 4. Activate it: `source .venv/bin/activate`
 5. Install dependencies: `pip install -r requirements.txt`
-6. Run the program: `python3 health-check-solution.py`
-7. The program will prompt you for a path to the YML file.
-8. The results of the program will be logged to the console until you exit (Ctrl+C).
+6. Change directory: `cd health_check`
+7. Run the program: `python3 health_check_solution.py`
+8. The program will prompt you for a path to the YML file (should be ../input/test.yml)
+9. The results of the program will be logged to the console until you exit (Ctrl+C).
